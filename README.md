@@ -1,2 +1,2 @@
 # anicast
-Anime Streaming Website running on node.js with mongoDB support &amp; user accounts.
+Anime Streaming Website running on node.js with mongoDB support & automatic data scraping.
